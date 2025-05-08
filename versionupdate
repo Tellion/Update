@@ -1,7 +1,7 @@
 {
-    "versionCode":6,
-    "versionName":"3.3",
-    "contentText":"Download the original ROCKET TUNNEL VPN from playstore App version 3.3 is now available on playstore...",
-    "minSupport":21,
+    "versionCode":8,
+    "versionName":"4",
+    "contentText":"Download the new ROCKET TUNNEL VPN from playstore App version 4 is now available on playstore...",
+    "minSupport":23,
     "url":"https://play.google.com/store/apps/details?id=com.rocktunnel.vpn"
 }
