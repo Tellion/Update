@@ -1,12 +1,14 @@
 {
-    "versionCode":12,
-    "versionName":"12",
-    "contentText":"NEW VERSION 12 UPDATE AVAILABLE
-what's 🆕
+    "versionCode":14,
+    "versionName":"14",
+    "contentText":"🔄NEW UPDATE IN GOOGLE PLAY STORE.
 
-- stability and performance improved
-- coins manager now fixed💯💯
-- improved ui",
+Download the new update(14.0.0).
+What's new?
+
+✅ Improved UDP hysterial performance.
+✅ Minor Bug Fixes. 
+✅ support for all devices.",
     "minSupport":23,
     "url":"https://play.google.com/store/apps/details?id=com.rocktunnel.vpn"
 }
